@@ -18,7 +18,7 @@ This paper presents a novel guidance law for target tracking applications where 
 **Andres Pulido**, Kyle Volle, Zachary I. Bell and Jane Shin
 
 Target tracking under intermittent measurements is a fundamental challenge in autonomous systems. Traditional methods, including Kalman filters and deep learning-based models, often struggle with sparse observations that contain large noise. In this paper, we formulate multiple transformer-based motion model designs that learn target dynamics from noisy sensor measurements and occluded portions. The models leverage self-attention to capture temporal dependencies and infer motion patterns under uncertainty. We evaluate different motion model formulations, such as time encoding the position inputs to handle the occlusion. These motion models are then paired with a particle filter for target estimation and with an information-driven planner for agent's guidance law. Since the motion models feed the prediction outputs into the guidance, their effectiveness is evaluated considering the target tracking performance. Simulation and hardware experiments demonstrate improved tracking accuracy and robustness compared to existing approaches.
-(Accepted to IROS 2025)
+[[IROS 2025 Conference paper]](https://ieeexplore.ieee.org/document/11246328)
 
 <video width="700" height="468" controls="controls">
   <source src="/videos/iros_full_presentation.mp4" type="video/mp4">

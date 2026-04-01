@@ -17,7 +17,7 @@ D. Jung, **A. Pulido**, J. Shin and S. -W. Kim, **"Point Cloud Structural Simila
 ## Conference
 **A. Pulido** and J. Shin, **"Uncertainty-Driven Online Path Planning for Autonomous Bathymetry Mapping Using a Tethered System"** AIAA SciTech 2026 Forum [[Conference Paper]](https://arc.aiaa.org/doi/10.2514/6.2026-2375)
 
-**A. Pulido**, K. Volle, Z. I. Bell and J. Shin, **"Transformer-based Motion Model for Robust Target Tracking under Intermittent and Noisy Measurements"** 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China. [Accepted Paper]
+**A. Pulido**, K. Volle, Z. I. Bell and J. Shin, **"Transformer-based Motion Model for Robust Target Tracking under Intermittent and Noisy Measurements"** 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China. [[Confference Paper]](https://ieeexplore.ieee.org/document/11246328)
 
 **A. Pulido**, K. Volle, K. Waters, Z. I. Bell, P. Ganesh and J. Shin, **"Uncertainty-Aware Guidance for Target Tracking subject to Intermittent Measurements using Motion Model Learning,"** 2025 American Control Conference (ACC), Denver, CO, USA, 2025, pp. 3140-3145, doi: 10.23919/ACC63710.2025.11107429. [[Conference Paper]](https://ieeexplore.ieee.org/document/11107429)
 
