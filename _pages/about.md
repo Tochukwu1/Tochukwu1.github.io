@@ -24,11 +24,12 @@ Read about my [Projects](https://tochukwu1.github.io/projects/), [Industry Exper
 - Autonomous satellite inspection and Guidance, Navigation, and Control (GNC) architectures  
 - Vision-based motion planning and monocular camera integration  
 
+
 ## Experiences
 
-- **[Autonomous Vehicles Lab, UF REEF](https://avl.reef.ufl.edu/) – Robotics & Autonomy Intern** (May 2026 – Present | May 2024 – Jul. 2024 | May 2023 – Aug. 2023)  
-- **[Systems, Cognition, and Control (SCC) Lab, UF](https://scc-lab.github.io/) – Graduate Research Assistant** (Aug. 2024 – Present)  
-- **Systems, Cognition, and Control (SCC) Lab, OSU – Graduate Research Assistant** (Jan. 2022 – Aug. 2024)  
-- **Ecobank Transnational Incorporated – Software Engineer Graduate Trainee** (May 2021 – Dec. 2021)
+* **[Autonomous Vehicles Lab, UF REEF](https://avl.reef.ufl.edu/) – Robotics & Autonomy Intern** (May 2026 – Present; May 2024 – Jul. 2024; May 2023 – Aug. 2023)  
+* **[Systems, Cognition, and Control (SCC) Lab, UF](https://scc-lab.github.io/) – Graduate Research Assistant** (Aug. 2024 – Present)  
+* **[Systems, Cognition, and Control (SCC) Lab, OSU](https://scc-lab.github.io/)  – Graduate Research Assistant** (Jan. 2022 – Aug. 2024)  
+* **Ecobank Transnational Incorporated – Software Engineer Graduate Trainee** (May 2021 – Dec. 2021)
 
 For more details, see my [resume](https://tochukwu1.github.io/cv/).
