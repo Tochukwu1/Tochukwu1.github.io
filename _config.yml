@@ -8,13 +8,13 @@
 # Site Settings
 minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Tochukwu Elijah Ogri"
 title_separator          : "-"
-name                     : &name "Andres Pulido"
-description              : &description "PhD student researching robotics planning and controls"
-url                      : https://andrespulido8.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tochukwu Elijah Ogri"
+description              : &description "Ph.D. Candidate in Mechanical Engineering researching safe adaptive optimal control, reinforcement learning, and autonomous systems"
+url                      : https://tochukwuogri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "andrespulido8/andrespulido.github.io"
+repository               : "Tochukwu1/tochukwuogri.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 github                   : [metadata]
 breadcrumbs              : false # true, false (default)
@@ -52,7 +52,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "reAQbWtSWugSshKLubCSAIRuTEWsMKjU_lE_nmf5cRc"
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -82,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andres Pulido"
+  name             : "Tochukwu Elijah Ogri"
   avatar           : "profile.png"
-  bio              : "Robotics + AI researcher, podcast host"
-  location         : NEB 5th floor, Gainesville, FL
-  employer         :
+  bio              : "Ph.D. Candidate in Mechanical Engineering working on safe adaptive optimal control, reinforcement learning, and autonomous systems."
+  location         : Gainesville, FL
+  employer         : "Systems, Cognition, and Control Laboratory, University of Florida"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=r6zjM0oAAAAJ&hl=en"
-  email            : "andrespulido@ufl.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=oz37xa4AAAAJ&hl=en&oi=ao"
+  email            : "tochukwu.ogri@ufl.edu"
   researchgate     :
   uri              :
   bitbucket        :
@@ -98,24 +98,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "andrespulido8"
+  github           : "Tochukwu1"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "andres-a-pulido"
-  orcid            :
+  linkedin         : "tochukwu-ogri"
+  orcid            : "0000-0002-8986-1610"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "andrespulido28"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "andrespulido8"
+  youtube          : 
   wikipedia        :
 
 
@@ -257,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
