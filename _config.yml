@@ -8,7 +8,7 @@
 # Site Settings
 minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
-title                    : "Tochukwu Elijah Ogri"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tochukwu Elijah Ogri"
 description              : &description "Ph.D. Candidate in Mechanical Engineering researching safe adaptive optimal control, reinforcement learning, and autonomous systems"
