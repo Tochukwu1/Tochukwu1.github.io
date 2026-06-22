@@ -12,5 +12,5 @@ main:
   - title: "Resume / CV"
     url: /cv/
 
-  - title: "Podcast"
-    url: /podcast/
+  # - title: "Podcast"
+  #   url: /podcast/
