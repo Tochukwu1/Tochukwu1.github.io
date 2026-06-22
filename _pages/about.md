@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student and Graduate Research Assistant in [SCC Lab](https://scc-lab.github.io/) at the [University of Florida](https://ufl.edu), advised by Assistant Professor [Rushikesh Kamalapurkar](https://mae.ufl.edu/people/name/rushikesh-kamalapurkar/). My research focuses on using control theory to develop stability-aware reinforcement learning techniques for safety-critical autonomous systems. I also work on learning-based control methods for robotic systems exhibiting nonsmooth phenomena, where policy synthesis is particularly challenging. Additionally, I have completed multiple [internship positions](https://tochukwuogri.github.io/industry_experiences/) at the Autonomous Vehicles Lab (UF REEF) supporting U.S. Air Force Research Laboratory initiatives.
+I am a PhD student and Graduate Research Assistant in [SCC Lab](https://scc-lab.github.io/) at the [University of Florida](https://ufl.edu), advised by Assistant Professor [Rushikesh Kamalapurkar](https://mae.ufl.edu/people/name/rushikesh-kamalapurkar/). My research focuses on using control theory to develop stability-aware reinforcement learning techniques for safety-critical autonomous systems. I also work on learning-based control methods for robotic systems exhibiting nonsmooth phenomena, where policy synthesis is particularly challenging. Additionally, I have completed multiple [internship positions](https://tochukwu1.github.io/industry_experiences/) at the Autonomous Vehicles Lab (UF REEF) supporting U.S. Air Force Research Laboratory initiatives.
 
 Previously, I earned my B.Eng. in Mechanical Engineering (First Class Honors) from the University of Benin in December 2019. From January 2022 to August 2024, I completed Ph.D. coursework and served as a Graduate Research Assistant at Oklahoma State University before transitioning to the University of Florida. Prior to my graduate studies, I worked as a Software Engineer Graduate Trainee at Ecobank Transnational Incorporated.
 
-Read about my [Projects](https://tochukwuogri.github.io/projects/), [Industry Experiences](https://tochukwuogri.github.io/industry_experiences/), [Publications](https://tochukwuogri.github.io/publications/), and [Podcast](https://tochukwuogri.github.io/podcast/).
+Read about my [Projects](https://tochukwu1.github.io/projects/), [Industry Experiences](https://tochukwu1.github.io/industry_experiences/), [Publications](https://tochukwu1.github.io/publications/), and [Podcast](https://tochukwu1.github.io/podcast/).
 
 ## Research interests
 
@@ -31,4 +31,4 @@ Read about my [Projects](https://tochukwuogri.github.io/projects/), [Industry Ex
 - **Systems, Cognition, and Control (SCC) Lab, OSU – Graduate Research Assistant** (Jan. 2022 – Aug. 2024)  
 - **Ecobank Transnational Incorporated – Software Engineer Graduate Trainee** (May 2021 – Dec. 2021)
 
-For more details, see my [resume](https://tochukwuogri.github.io/cv/).
+For more details, see my [resume](https://tochukwu1.github.io/cv/).

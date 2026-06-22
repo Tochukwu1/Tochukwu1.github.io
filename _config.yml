@@ -12,9 +12,9 @@ title                    : "Tochukwu Elijah Ogri"
 title_separator          : "-"
 name                     : &name "Tochukwu Elijah Ogri"
 description              : &description "Ph.D. Candidate in Mechanical Engineering researching safe adaptive optimal control, reinforcement learning, and autonomous systems"
-url                      : https://tochukwuogri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tochukwu1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Tochukwu1/tochukwuogri.github.io"
+repository               : "Tochukwu1/tochukwu1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 github                   : [metadata]
 breadcrumbs              : false # true, false (default)
