@@ -18,8 +18,8 @@ Applied Gaussian Process-based error correction techniques tailored for autonomo
 
 ## Event-Triggered CBFs for Safety-Critical Obstacle Avoidance
 
-Developed an event-triggered hybrid feedback control model to robustly resolve suboptimal Control Barrier Function Quadratic Programs (CBF-QPs). This approach tightens safety constraints to account for finite computation times and strictly bounds safety deviations in autonomous systems. I designed these safety-critical controllers to enforce state constraints and collision avoidance in real-time. The obstacle avoidance algorithms were rigorously validated through actual ROS 2 experiments on a holonomic turtlebot.
-[[Code]](https://github.com/Tochukwu1/cbf_event_pkg)
+Developed an event-triggered Control Barrier Function (CBF) framework that accounts for finite computation times and suboptimal quadratic program solutions. Implemented real-time collision avoidance and safety-critical control on a holonomic TurtleBot in ROS 2, with experimental validation.
+[[Video Demo]](videos/holonomic_robot.mp4) · [[Code]](https://github.com/Tochukwu1/cbf_event_pkg)
 
 ## Ambient Sound Classification using CNNs
 
