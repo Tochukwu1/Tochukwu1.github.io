@@ -26,6 +26,14 @@ Developed an event-triggered Control Barrier Function (CBF) framework that accou
   </video>
 </div>
 
+## Output-Feedback Barrier State Control for Quadrotors
+
+Developed an output-feedback barrier state controller for a Freefly Astro quadrotor. The controller combines a State-Dependent Riccati Equation (SDRE) formulation with Barrier States for trajectory tracking subject to safety constraints. An Extended Kalman Filter (EKF) provides state estimates from onboard measurements.
+
+<video controls style="width:100%; max-width:800px;">
+  <source src="/videos/freefly-astro-barrier-state.mp4" type="video/mp4">
+</video>
+
 ## Ambient Sound Classification using CNNs
 
 Developed and trained a 2D Convolutional Neural Network (CNN) to classify 5-second audio clips into five distinct ambient environment categories: indoor quiet, street traffic, kitchen activity, human chatter, and nature. The processing pipeline transforms raw 48 kHz audio into 128-bin log-mel spectrograms, which are then treated as single-channel images. These images are fed into a four-layer CNN architecture that utilizes max-pooling, dropout regularization, and adaptive average pooling before passing through a fully connected classifier. The model was trained end-to-end using negative log-likelihood loss and the Adam optimizer. To improve robustness, I implemented a comprehensive data augmentation pipeline including pitch shifting, time-stretching, noise injection, time rolling, and frequency masking. This augmentation strategy significantly improved generalization, allowing the model to achieve a 98.76% weighted F1 score without increasing the underlying model size. [[Poster]](/files/EEL5840_Poster.pdf)
