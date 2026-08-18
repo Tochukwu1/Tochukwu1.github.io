@@ -18,7 +18,7 @@ Applied Gaussian Process-based error correction techniques tailored for autonomo
 
 ## Event-Triggered CBFs for Safety-Critical Obstacle Avoidance
 
-Developed an event-triggered CBF framework for collision avoidance under finite CBF-QP computation times. Implemented the controller in ROS 2 on a holonomic TurtleBot and validated multi-obstacle avoidance in hardware experiments. [[Code]](https://github.com/Tochukwu1/cbf_event_pkg)
+Developed an event-triggered CBF framework for collision avoidance under finite CBF-QP computation times. Implemented the controller in C++ ROS 2 on a holonomic TurtleBot and validated multi-obstacle avoidance in hardware experiments. [[Code]](https://github.com/Tochukwu1/cbf_event_pkg)
 
 <div style="text-align:center;">
   <video autoplay loop muted playsinline controls
@@ -28,8 +28,8 @@ Developed an event-triggered CBF framework for collision avoidance under finite 
 </div>
 
 <div align="center">
-  <img src="images/holobot.jpg" width="49%">
-  <img src="images/multi_obstacle.jpg" width="49%">
+  <img src="/images/holobot.jpg" width="49%">
+  <img src="/images/multi_obstacle.jpg" width="49%">
 </div>
 
 ## Output-Feedback Barrier State Control for Quadrotors
