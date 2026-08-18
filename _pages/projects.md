@@ -23,7 +23,7 @@ Developed an event-triggered CBF framework for collision avoidance under finite 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin-top: 15px;">
 
   <!-- Video Section -->
-  <video autoplay loop muted playsinline controls style="width: 100%; max-width: 800px;">
+  <video autoplay loop muted playsinline controls style="width: 100%; max-width: 800px; max-height: 450px; background-color: black;">
     <source src="/videos/holonomic_robot.mp4" type="video/mp4">
   </video>
 
