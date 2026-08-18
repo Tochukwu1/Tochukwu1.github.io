@@ -20,10 +20,10 @@ Applied Gaussian Process-based error correction techniques tailored for autonomo
 
 Developed an event-triggered CBF framework for collision avoidance under finite CBF-QP computation times. Implemented the controller in ROS 2 on a holonomic TurtleBot and validated multi-obstacle avoidance in hardware experiments. [[Code]](https://github.com/Tochukwu1/cbf_event_pkg)
 
-<div align="center">
+<div style="text-align:center;">
   <video autoplay loop muted playsinline controls
          style="width:100%; max-width:800px; max-height:450px;">
-    <source src="videos/holonomic_robot.mp4" type="video/mp4">
+    <source src="/videos/holonomic_robot.mp4" type="video/mp4">
   </video>
 </div>
 
